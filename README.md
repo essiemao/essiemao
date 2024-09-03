@@ -1,34 +1,23 @@
-# Project Name
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=2000&pause=500&color=F75C5C&width=435&lines=hello+user;welcome+to+cop's+profile)](https://github.com/cop-discord/)
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+# <h1 align="center"> ABOUT ME </h1>
 
-## Table of Contents
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=30&center=true&lines=Self+taught+developer;Experienced+in+python;Keen+to+learn+new+things"></a>
+</p>
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=cop-discord">
+</p>
 
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## Hello
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
 
-## Introduction
+I am a learning developer, </br>
+`Creator` of Mastro tool 
+`Developer` of Blame  
+`Creator` of Rival API  
 
-A brief description of what your project does, why it exists, and what problem it solves. This section should provide a high-level overview of the project.
-
-## Installation
-
-Instructions on how to install and set up the project. This may include dependencies and steps required to get the project running locally.
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repository.git
-
-# Navigate to the project directory
-cd your-repository
-
-# Install dependencies
-npm install
-
-# Start the project
-npm start
+### I mainly code in
+- Python  
+- Java  
+- Rust
