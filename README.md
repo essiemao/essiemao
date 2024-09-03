@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=2000&pause=500&color=F75C5C&width=435&lines=hello+user;welcome+to+cop's+profile)](https://github.com/cop-discord/)
+
 
 # <h1 align="center"> ABOUT ME </h1>
 
